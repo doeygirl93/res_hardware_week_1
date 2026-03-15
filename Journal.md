@@ -24,11 +24,18 @@ So i mainly tested it by changing the amont of storage the capistor can store an
 # Final PROJECT!!!!!
 
 ## 1. Project Goal
+Build a Circut where LED's Light up but with a couple second delays and each Light gets dimmer over time. Optionally Make them all close at the same time
 ## 2. Initial Idea/Research
+Ok so TBH i lowkenly took an hour doing the first cricut so i think i should keep this circut simple so i don't frustrate myself. I'm try and do the suggest project where like the LED all light up in almost a second delay and perchance MAYBE if i have time try and get it
 ## 4. Detailed Design
+This isecond is for the intial disign/idea
+
+Ok so i think this simple shouldn't be too hard. IM thinking i would loook like this (DC SOURCE -> switch (so the power source can cut off instantly) -> wires & Resistor (smalll amount) -> LED1 -> resitor (meduim) -> LED 2 -> resitor -> LED 3
 ## 5. Testing
 ## 6. Problems Encountered
 ## 7. Iterations/Improvements
+
+
 ## 8.Reflection
 
 

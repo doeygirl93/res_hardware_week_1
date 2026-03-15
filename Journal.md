@@ -51,11 +51,20 @@ here are some pictures;
 ok hopfeuly ts can work but honest i have low hopes. genuiely im so freaking cooked if its taking me this long for day one..... ima just give up if i can't get this done:
 
 ## 1. Project Goal
+Ok this is going to be very simple (hopefully) i just want a circut that can turn on turn on 2 led's but one with a 1 second delay
+Ok so i kinda thought i might be able to wing the last project and did not really look into RC timing cuz i saw all that made and kinda thought i can wing it. Maybe seeing this circut might help me
 ## 2. initial Idea/Research
+OK this is a big one so i kinda searched it up and it ain't really that bad. Its litteraly just R * C = Time. Ima just do a littel test with this image i found from instructables
+The goal of this test was just to get on light bulb to delay  inside a super simple circut nothing fancy
+OMG OMG OMG OMG OMG OMG IT WORKED!!! I'm so freaking glad. And I've only been working on this one for about 30 minutes !!! (atleast according to my timer) NOW we can do into a more detialed deisgn/
 ## 3. Detailed Design
 ## 4. Testing
 ## 5. Problems Encountered
+1. Ok so the problem that i once again encounters was that my circut after being switched off would still keep on going. And turns out this is kinda the point😭🙏🏾 I'm crine why did it took me this long to figure out. I did some calculations and i though it was only going to take like 1 second but i took like a good 20 with the falst lab probably because of he werid time. Now my simulation speed is on max so it truely takes about a second!!!
+2.
 ## 6. Iterations/Improvements
+First interation (FIRST WORKING CIRCUT):
+![Working circut with just 1 LED](First 1 LED not failed circut.gif )
 ## 7. Reflection
 
 

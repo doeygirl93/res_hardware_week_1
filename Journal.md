@@ -64,7 +64,8 @@ OMG OMG OMG OMG OMG OMG IT WORKED!!! I'm so freaking glad. And I've only been wo
 2.
 ## 6. Iterations/Improvements
 First interation (FIRST WORKING CIRCUT):
-![Working circut with just 1 LED](./Failed final circit gif.gif)
+<img src="./Failed final circit gif.gif)" alt="Working circut with just 1 LED" width="50%"/>
+
 ## 7. Reflection
 
 

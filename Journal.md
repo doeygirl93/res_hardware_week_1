@@ -65,7 +65,8 @@ So it goes like " DC (5v) pos -> Regular switch -> 1k ohms of resitance, -> || S
 
 ## 5. Problems Encountered
 1. Ok so the problem that i once again encounters was that my circut after being switched off would still keep on going. And turns out this is kinda the point😭🙏🏾 I'm crine why did it took me this long to figure out. I did some calculations and i though it was only going to take like 1 second but i took like a good 20 with the falst lab probably because of he werid time. Now my simulation speed is on max so it truely takes about a second!!!
-2. OK after the second iteration im a litte bit sad bc the 2nd LED isn't as bright so it doens't look as cool so ima try and fix ts. Ok so the thing is i though lowering resitance and increasing the capicitor's would do it but i actually just made it hard to tunr off so an equlibaruim would probably be best. I guess the next bext thing to do would be to do transitors
+2. OK after the second iteration im a litte bit sad bc the 2nd LED isn't as bright so it doens't look as cool so ima try and fix ts. Ok so the thing is i though lowering resitance and increasing the capicitor's would do it but i actually just made it hard to tunr off so an equlibaruim would probably be best. I guess the next bext thing to do would be to do transitors. Ok so i tried out the transitors and those are WAY to confusing and i kinda just rembered that i don't think we are allowed to use them.
+3. Getting it all faster. I think the simulation is just slow so i kinda just made every number smaller in porpotion
 ## 6. Iterations/Improvements
 ####First version with just one LED (FIRST WORKING CIRCUT):
 <img src="./Failed final circit gif.gif)" alt="Working circut with just 1 LED" width="50%"/>
@@ -74,8 +75,11 @@ Ok now onto the second iteration. I'm hopefully have mutiple LED so im just try 
 <img src=".v2 RC delay circ.gif)" alt="Working 2nd LED" width="50%"/>
 
 
-## 7. Reflection
+Ok i tried to do one last improve ment where i kinda made it that the resitor and the led is in parrel with the capitor rather than just the LED, CAPictor end nodes being conected the the same resistor but that ended up messing up the circuit LOL. SO i'ma just give up on that and its 1:47 am for me and i've litteraly worked on ts for 6+ hours
 
+
+## 7. Reflection
+ummm so i might suck at hardware but its getting eaiser!!!! I made a very very basic RC delay circut and i learned how to simulate circuts. Next time i will deifnely be looking at mroe schematics of random websites and maybe try and learn more theory/take advantage of theory rather than just jumpin into it. This was really fun (but also frustating)
 
 
 

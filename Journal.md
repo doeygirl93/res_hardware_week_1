@@ -54,17 +54,25 @@ ok hopfeuly ts can work but honest i have low hopes. genuiely im so freaking coo
 Ok this is going to be very simple (hopefully) i just want a circut that can turn on turn on 2 led's but one with a 1 second delay
 Ok so i kinda thought i might be able to wing the last project and did not really look into RC timing cuz i saw all that made and kinda thought i can wing it. Maybe seeing this circut might help me
 ## 2. initial Idea/Research
-OK this is a big one so i kinda searched it up and it ain't really that bad. Its litteraly just R * C = Time. Ima just do a littel test with this image i found from instructables
+OK this is a big one so i kinda searched it up and it ain't really that bad. Its litteraly just R * C = Time. Ima just do a littel test with this image i found from instructables that was really helpful in just getting a visual feeling on how it's supposed to work  here is the article: (genuiely PEAK and so understandble🥹"https://www.build-electronic-circuits.com/rc-delay-element/")
 The goal of this test was just to get on light bulb to delay  inside a super simple circut nothing fancy
-OMG OMG OMG OMG OMG OMG IT WORKED!!! I'm so freaking glad. And I've only been working on this one for about 30 minutes !!! (atleast according to my timer) NOW we can do into a more detialed deisgn/
+OMG OMG OMG OMG OMG OMG IT WORKED!!! I'm so freaking glad. And I've only been working on this one for about 30 minutes !!! (atleast according to my timer) NOW we can do into a more detialed deisgn
 ## 3. Detailed Design
+Ok so idk what to put here TBH so ima just describe the flow of the circut LOL
+So it goes like " DC (5v) pos -> Regular switch -> 1k ohms of resitance, -> || SPIT || Bottem  => Capcitor (1mF)     Right  => Wire -> Led going back ground  || SPLIT RECONNECT ||  A write connecting all the differnt downward lines to the ground part of the DC
 ## 4. Testing
+1. THe first tests was to recomfirm if i really do need to wire between every new connection connection rather than connnecting mutiple wire to a middle of a wire. SO i did test it out and the circut did NOT work unless i did the wiring between every connect i wanted to make.
+
 ## 5. Problems Encountered
 1. Ok so the problem that i once again encounters was that my circut after being switched off would still keep on going. And turns out this is kinda the point😭🙏🏾 I'm crine why did it took me this long to figure out. I did some calculations and i though it was only going to take like 1 second but i took like a good 20 with the falst lab probably because of he werid time. Now my simulation speed is on max so it truely takes about a second!!!
-2.
+2. OK after the second iteration im a litte bit sad bc the 2nd LED isn't as bright so it doens't look as cool so ima try and fix ts. Ok so the thing is i though lowering resitance and increasing the capicitor's would do it but i actually just made it hard to tunr off so an equlibaruim would probably be best. I guess the next bext thing to do would be to do transitors
 ## 6. Iterations/Improvements
-First interation (FIRST WORKING CIRCUT):
+####First version with just one LED (FIRST WORKING CIRCUT):
 <img src="./Failed final circit gif.gif)" alt="Working circut with just 1 LED" width="50%"/>
+
+Ok now onto the second iteration. I'm hopefully have mutiple LED so im just try and copy the end of the 1st circut and see how it goes. OK IT WORKED!!! SO LIKE IT TURNS ON TOGETHER KINDA AT DELAYED RATES BUT KINDA JUST TURNS OFF TOGETHER IM TECHNICALLY DONE!!!!
+<img src=".v2 RC delay circ.gif)" alt="Working 2nd LED" width="50%"/>
+
 
 ## 7. Reflection
 

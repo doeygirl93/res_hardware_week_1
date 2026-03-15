@@ -10,5 +10,12 @@ LASPE: https://lapse.hackclub.com/timelapse/jD3GH-zBHg6_
 
 ## PROJECT 2 PARREL RC CIRCUT WITH DELAY
 honestly now that i look back on it im kinda embarrsed with how this took SO LONG. like i never realized how simular these too are (ts litteraly took me like 5 hours and i litteraly had to quit one project cuz it was too complicated lol tho so idk im lowk just chopped at hardware) BUT
-escia
+DESC: This project is another simple RC circut with 2 Led's that whne you open the switch they fade oout together but when you close the switch its a 1 second delay.
 
+(v2 RC delay circ.gif) AND LINK: https://falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEBmAHAJmgdgGzoRmACzICcpkORI5ISCkdApgLRhgBQAbiEXL1V79kkao0Z86UaTAQcATnSLUR1Ko1XSw8DgGMQ6lKIOSigsbEgQw0HFkpwiYLAiKl2+KJYgxOYPCBYyDhG1EEhZtToIAAmTABmAIYArgA2AC4sqUwx4DJeVhwA7iYaxuGhUMU0YNGaqMh1xpAcAM5CZdSuKs3SSamtTNV8EoKGkVUl44IVEy0ls4IN0XMc-tHuTdSbAlGxCSkZWTl54gWc+suVVxMWcNbQRPjKbpCkOMtEWKgFVpMgN0EO1Wigq9UalUY2jgHAA9igTNI+LRMEgYHBkLU0SA6ig4TjERI3qQcdA0ZY4KRcAg8EgINE6vjtIShCiyb9IGRKJ4GeANBwgA
+
+Ok so it works like this: DC (5v) pos -> Regular switch -> 1k ohms of resitance, -> || SPIT || Bottem => Capcitor (1mF) Right => Wire -> Led going back ground || SPLIT RECONNECT || A write connecting all the differnt downward lines to the ground part of the DC
+
+Its a simple RC circut that i think is parrel? its quite simple idk how to explain it more than this lol
+
+LASPE: https://lapse.hackclub.com/timelapse/V9oXWEseelUZ

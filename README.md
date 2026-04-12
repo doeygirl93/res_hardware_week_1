@@ -1,4 +1,6 @@
 # HARDWARE RESULUTION WEEK 1
+total time: 2:50 min
+Honestly looking back i didn't know how to journal and journaling was messy so im just using the laspe time lol
 
 ## PROJECT 1 BASIC RC CIRCUT FROM THE GUIDE
 So when you click on the switch an lightbulb instantly turns on. But when you turn it off it takes a second
